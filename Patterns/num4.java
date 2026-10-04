@@ -12,9 +12,7 @@ public class num4 {
             }
             System.out.println();
 
-            for(int j=0;j<=n;j++){
-                System.out.print("*");
-            }
+          
             
         }
 
